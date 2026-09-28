@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /user/
+Disallow: /api/
+Disallow: /uploads/
+Sitemap: https://www.example-ca.com/sitemap.xml
